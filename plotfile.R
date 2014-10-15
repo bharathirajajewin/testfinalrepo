@@ -1,3 +1,3 @@
 # First repo created
 a <- rnorm
-plot(a)
+plot(a, xlab=c(-2,2))
